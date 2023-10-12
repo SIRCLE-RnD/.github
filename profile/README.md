@@ -50,4 +50,4 @@ Jika Anda memiliki pertanyaan atau ingin menghubungi kami, Anda dapat melalui al
 Terima kasih telah tertarik untuk berkontribusi dan berkolaborasi dengan kami!
 
 ---
-© 2023 Sircle - Organisasi Kreatif
+© 2023 Sircle - RnD

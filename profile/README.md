@@ -1,3 +1,5 @@
+<img src='https://avatars.githubusercontent.com/u/146415492?s=200&v=4' width='100'>
+
 # Sircle - RnD
 
 Selamat datang di repositori utama organisasi Sircle.

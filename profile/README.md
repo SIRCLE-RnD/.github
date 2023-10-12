@@ -8,8 +8,6 @@ Selamat datang di repositori utama organisasi Sircle.
 
 Menjadi wadah pengembangan dan pengoptimalan mahasiswa di bidang riset dan pengembangan teknologi di Fakultas Informatika Institut Teknologi Telkom Purwokerto.
 
-Anda dapat menemukan lebih banyak informasi tentang Proyek A dalam direktori proyek tersebut.
-
 ### MISI
 
 1. Mewadahi mahasiswa untuk mengembangkan dan mengoptimalkan kemampuan serta minat di bidang riset dan pengembangan teknologi.
